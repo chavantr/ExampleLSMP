@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "649344196053",
+    "firebase_url": "https://marathilovesms-3220a.firebaseio.com",
+    "project_id": "marathilovesms-3220a",
+    "storage_bucket": "marathilovesms-3220a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649344196053:android:4164dcefaa677dd7",
+        "android_client_info": {
+          "package_name": "lovesms.mywings.com.marathilovesms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649344196053-miluik09d8arus4hm36a5ld61n4m4cv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lovesms.mywings.com.marathilovesms",
+            "certificate_hash": "64a206b2f29d5c633433099495d864501644c5cf"
+          }
+        },
+        {
+          "client_id": "649344196053-1ksjsaeml6jbe4on1r3bvm7as59cko3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCT0BZ8ZeqFzoeF_5EuB_GMbz6CmNMX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649344196053-1ksjsaeml6jbe4on1r3bvm7as59cko3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-6899596860681063~1783891867"
+    }
+  ],
+  "configuration_version": "1"
+}

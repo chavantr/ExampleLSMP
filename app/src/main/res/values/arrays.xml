@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="title_array">
+        <item>सर्व</item>
+        <item>प्रेम</item>
+        <item>मैत्री</item>
+        <item>आठवण</item>
+        <item>जीवलग</item>
+        <item>भावना</item>
+        <item>विरह</item>
+        <item>वेलेंटाईन डे</item>
+        <item>विनोदी</item>
+        <item>कविता</item>
+        <item>प्रेमविचार</item>
+        <item>तू आणि मी</item>
+        <item>फिल्मी</item>
+        <item>लग्न</item>
+        <item>पाऊस</item>
+        <item>गुलाबी थंडी</item>
+        <item>शायरी</item>
+        <item>चारोळी</item>
+    </array>
+</resources>
